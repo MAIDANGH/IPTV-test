@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-22 18:18:19,http://60.223.224.176:8888/newlive/live/hls/2/live.m3u8?
+2025-11-23 06:17:32,http://60.223.224.176:8888/newlive/live/hls/2/live.m3u8?
 
 📺央视频道,#genre#
 CCTV-1,http://60.223.224.176:8888/newlive/live/hls/2/live.m3u8?
@@ -1082,6 +1082,7 @@ CN卡通,https://hls-gateway.vpstv.net/streams/476247.m3u8
 河北少儿科教,https://stream1.freetv.fun/he-bei-shao-er-ke-jiao-9.ctv
 河北少儿科教,https://stream1.freetv.fun/he-bei-shao-er-ke-jiao-8.ctv
 河北少儿科教,https://stream1.freetv.fun/he-bei-shao-er-ke-jiao-17.ctv
+七龙珠,https://www.douzhicloud.site:35455/huya/11601966
 七龙珠,https://live.ottiptv.cc/huya/11601966
 火影忍者,http://cdn.jdshipin.com:8880/huya.php?id=29465866
 火影忍者,https://stream1.freetv.fun/2c2e2becedbbe8dab0aca796b557c6b99ef3e26aacec286ffb9500db6767a209.ctv
@@ -1090,10 +1091,12 @@ CN卡通,https://hls-gateway.vpstv.net/streams/476247.m3u8
 海绵宝宝,https://stream1.freetv.fun/2aa508013557f0470b7b2e9e7558612a5321b2b4de142e8c88dc046de4ce3e28.ctv
 海绵宝宝,https://stream1.freetv.fun/c52fae8fe3884641e5d0da50955607c238a00c3a49cc7769984b398d55e2ffc5.ctv
 中华小当家,http://m.wuzhij.com/huya.php?id=24257300&cdn=txcdn
+中华小当家,https://www.douzhicloud.site:35455/huya/11342413
 中华小当家,https://live.metshop.top/huya/11342413
 中华小当家,https://live.iill.top/huya/11342413
 中华小当家,https://live.ottiptv.cc/huya/11342413
 中华小当家,https://stream1.freetv.fun/9b36a796596e66eceec7b02a2d0ea5d5bec9fc7d56ccf8d91982dcf163aeac6d.ctv
+猫和老鼠,https://www.douzhicloud.site:35455/huya/11352879
 猫和老鼠,https://live.iill.top/huya/11352879
 猫和老鼠,http://live.iill.top/huya.php?id=11352879
 猫和老鼠,https://live.ottiptv.cc/huya/11352879

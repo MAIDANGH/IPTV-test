@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-22 18:18:19,http://60.223.224.176:8888/newlive/live/hls/2/live.m3u8?
+2025-11-23 06:17:32,http://60.223.224.176:8888/newlive/live/hls/2/live.m3u8?
 
 📺央视频道,#genre#
 CCTV-1,http://60.223.224.176:8888/newlive/live/hls/2/live.m3u8?
@@ -802,6 +802,9 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 浙江少儿,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=a8150b&tk=6949f8ce7202
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 浙江少儿,http://ms.fxim.net:808/hls/15/index.m3u8
+七龙珠,https://www.douzhicloud.site:35455/huya/11601966
 中华小当家,http://m.wuzhij.com/huya.php?id=24257300&cdn=txcdn
+中华小当家,https://www.douzhicloud.site:35455/huya/11342413
+猫和老鼠,https://www.douzhicloud.site:35455/huya/11352879
 经典动漫,https://lunbo.freetv.top/yy/22777075
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
