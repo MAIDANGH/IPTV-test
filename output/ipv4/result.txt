@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-28 06:19:07,http://60.223.224.176:8888/newlive/live/hls/2/live.m3u8?
+2025-11-28 18:21:10,http://60.223.224.176:8888/newlive/live/hls/2/live.m3u8?
 
 📺央视频道,#genre#
 CCTV-1,http://60.223.224.176:8888/newlive/live/hls/2/live.m3u8?
@@ -768,6 +768,8 @@ NewTV动作电影,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000018653
 NewTV动作电影,http://183.220.107.138:4022/rtp/239.11.0.142:5140
 NewTV动作电影,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226329/.m3u8
 NewTV动作电影,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226974/.m3u8
+NewTV动作电影,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226974/.m3u8
+NewTV动作电影,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226329/.m3u8
 纬来电影,https://tv543.cc/Smart.php?id=videolandmovie
 纬来电影,http://orz.jkun.cf/smt.php?id=videolandmovie
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
