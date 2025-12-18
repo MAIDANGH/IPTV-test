@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-18 06:19:34,http://60.223.224.176:8888/newlive/live/hls/2/live.m3u8?
+2025-12-18 18:22:42,http://60.223.224.176:8888/newlive/live/hls/2/live.m3u8?
 
 📺央视频道,#genre#
 CCTV-1,http://60.223.224.176:8888/newlive/live/hls/2/live.m3u8?
@@ -724,6 +724,7 @@ Viutv,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=8
 靖天资讯,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5055
 
 ☘️广西频道,#genre#
+梧州公共,http://yp.qqqtv.top/1/api.php?id=%E6%A2%A7%E5%B7%9E%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93&auth=666858
 北海新闻综合,http://116.1.30.133:8181/rtp/239.81.0.154:4056
 南宁公共,http://219.159.194.39:8181/tsfile/live/1014_1.m3u8
 南宁公共,http://116.1.30.133:8181/rtp/239.81.0.141:4056
@@ -738,8 +739,10 @@ Viutv,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=8
 广西新闻,http://171.108.239.99:8181/tsfile/live/1107_1.m3u8?key=txiptv
 广西新闻,http://171.108.239.79:8181/tsfile/live/1107_1.m3u8?key=txiptv&playlive=1&authid=0
 广西新闻,http://116.1.30.133:8181/rtp/239.81.0.248:4056
+广西新闻,http://yp.qqqtv.top/1/api.php?id=%E5%B9%BF%E8%A5%BF%E6%96%B0%E9%97%BB&auth=666858
 桂林新闻,https://pull.gltvs.com/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
 南宁影视娱乐,http://116.1.30.133:8181/rtp/239.81.0.140:4056
+南宁影视娱乐,http://yp.qqqtv.top/1/api.php?id=%E5%8D%97%E5%AE%81%E5%BD%B1%E8%A7%86%E5%A8%B1%E4%B9%90&auth=666858
 
 🎬电影频道,#genre#
 CHC家庭影院,http://120.46.223.160/PHP/MG.php?id=644368373
@@ -785,6 +788,7 @@ NewTV动作电影,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/8888
 NewTV动作电影,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226329/.m3u8
 纬来电影,https://tv543.cc/Smart.php?id=videolandmovie
 纬来电影,http://orz.jkun.cf/smt.php?id=videolandmovie
+纬来电影,http://iptv.4666888.xyz/iptv2A.php?id=40
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
 靖天映画,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv055/index.m3u8?proxy=true
 靖天映画,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv055/index.m3u8?proxy=true
