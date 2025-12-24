@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-24 06:19:15,http://60.223.224.176:8888/newlive/live/hls/2/live.m3u8?
+2025-12-24 18:21:22,http://60.223.224.176:8888/newlive/live/hls/2/live.m3u8?
 
 📺央视频道,#genre#
 CCTV-1,http://60.223.224.176:8888/newlive/live/hls/2/live.m3u8?
@@ -808,6 +808,7 @@ NewTV动作电影,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/8888
 靖天戏剧,http://vv.hotinosin.eu.org:10361/4gtv-4gtv058/index.m3u8?proxy=true
 靖天戏剧,http://vv.hotinosin.eu.org:10361/li-4gtv-4gtv058/index.m3u8?proxy=true
 靖天戏剧,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5097
+靖天戏剧,http://211.23.125.95:50007/4gtv-4gtv058/index.m3u8?proxy=true
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
 经典电影,http://113.57.20.158:9901/tsfile/live/1012_1.m3u8
 经典电影,http://115.48.61.209:9901/tsfile/live/1032_1.m3u8
