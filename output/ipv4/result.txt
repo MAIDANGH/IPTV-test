@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-01 06:20:13,http://60.223.224.176:8888/newlive/live/hls/2/live.m3u8?
+2026-01-01 18:22:09,http://60.223.224.176:8888/newlive/live/hls/2/live.m3u8?
 
 📺央视频道,#genre#
 CCTV-1,http://60.223.224.176:8888/newlive/live/hls/2/live.m3u8?
@@ -794,6 +794,7 @@ NewTV动作电影,http://123123.667789.cn:88/hls/164/index.m3u8
 纬来电影,http://orz.jkun.cf/smt.php?id=videolandmovie
 纬来电影,http://iptv.4666888.xyz/iptv2A.php?id=40
 纬来电影,http://zb.hpc.tw/smtv.php?id=videolandmovie
+纬来电影,http://free.cnlive.club/channel/581b458b.m3u8?q=111.170.171.148
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
 靖天映画,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv055/index.m3u8?proxy=true
 靖天映画,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv055/index.m3u8?proxy=true
@@ -830,6 +831,7 @@ NewTV动作电影,http://123123.667789.cn:88/hls/164/index.m3u8
 天映经典,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=4921
 天映经典,http://zb.hpc.tw/smtv.php?id=Celestial2
 天映经典,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1165791
+天映经典,http://iptv.4666888.xyz/iptv2A.php?id=39
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 星空卫视,http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
 星空卫视,http://111.221.137.155:44330/tsfile/live/0139_1.m3u8?key=txiptv
