@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-08 06:20:28,http://60.223.224.176:8888/newlive/live/hls/2/live.m3u8?
+2026-01-08 18:23:44,http://60.223.224.176:8888/newlive/live/hls/2/live.m3u8?
 
 📺央视频道,#genre#
 CCTV-1,http://60.223.224.176:8888/newlive/live/hls/2/live.m3u8?
@@ -689,6 +689,7 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
 纬来体育,https://cloud.yumixiu768.com:443/tmp/123.m3u8
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 纬来体育,http://59.127.17.227:8585/http/61.67.128.137:8081/hls/67/809/ch28.m3u8
+纬来体育,http://free.cnlive.club/channel/5816d06e.m3u8?q=111.170.171.148
 纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40
 纬来育乐,https://tv543.cc/Smart.php?id=videolandyule
 纬来育乐,http://ali.hlspull.yximgs.com/live/e4e976f02d84d92e626397468a8935ee.flv
@@ -701,6 +702,9 @@ Viutv,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=8
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
 三立新闻,http://108.181.20.197/livehttpplay?channel_id=10126
 三立新闻,http://59.127.17.227:8543/http/61.67.128.137:8081/hls/65/807/ch18.m3u8
+三立新闻,http://nmk.ioapk.com:5050/iNEWS/index.m3u8?proxy=true
+三立新闻,http://nmk.ioapk.com:5050/4gtv-live089/index.m3u8?proxy=true
+三立新闻,http://8.iptv543.com:50008/4gtv-live089/index.m3u8?proxy=true
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
@@ -742,6 +746,7 @@ Viutv,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=8
 广西新闻,http://171.108.239.79:8181/tsfile/live/1107_1.m3u8?key=txiptv&playlive=1&authid=0
 广西新闻,http://116.1.30.133:8181/rtp/239.81.0.248:4056
 广西新闻,http://yp.qqqtv.top/1/api.php?id=%E5%B9%BF%E8%A5%BF%E6%96%B0%E9%97%BB&auth=666858
+广西新闻,http://38.75.136.137:98/gslb/dsdqpub/gxxw.m3u8?auth=testpub
 桂林新闻,https://pull.gltvs.com/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
 南宁影视娱乐,http://116.1.30.133:8181/rtp/239.81.0.140:4056
 南宁影视娱乐,http://yp.qqqtv.top/1/api.php?id=%E5%8D%97%E5%AE%81%E5%BD%B1%E8%A7%86%E5%A8%B1%E4%B9%90&auth=666858
@@ -780,6 +785,7 @@ CHC高清电影,http://112.243.244.20:4022/rtp/239.253.246.154:8000
 NewTV惊悚悬疑,http://146.235.213.45:35455/itv/1000000004000024282.m3u8?cdn=ystenlive
 NewTV惊悚悬疑,http://183.220.107.138:4022/rtp/239.11.0.144:5140
 NewTV惊悚悬疑,http://2323.667789.cn:88/hls/139/index.m3u8
+NewTV惊悚悬疑,http://111.29.9.33:6610/000000001000/1000000004000024282/index.m3u8?channel-id=bestzb&Contentid=1000000004000024282&livemode=1&stbId=3
 NewTV动作电影,http://rihou.cc:567/53057.php?id=chcdz
 NewTV动作电影,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000018653
 NewTV动作电影,http://183.220.107.138:4022/rtp/239.11.0.142:5140
@@ -832,6 +838,8 @@ NewTV动作电影,http://123123.667789.cn:88/hls/164/index.m3u8
 天映经典,http://zb.hpc.tw/smtv.php?id=Celestial2
 天映经典,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1165791
 天映经典,http://iptv.4666888.xyz/iptv2A.php?id=39
+天映经典,http://74.91.26.218:82/live/tyjd.m3u8
+天映经典,http://143.14.105.196:20010/cdn9/live/ccm/stream.m3u8
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 星空卫视,http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
 星空卫视,http://111.221.137.155:44330/tsfile/live/0139_1.m3u8?key=txiptv
@@ -956,6 +964,7 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 河北少儿科教,http://120.0.52.162:8086/tsfile/live/1003_1.m3u8
 河北少儿科教,http://27.188.107.51:9009/rtp/239.254.200.21:6000
 七龙珠,https://www.douzhicloud.site:35455/huya/11601966
+火影忍者,http://cfss.cc/cdn/hy/29465866.m3u8
 海绵宝宝,http://diyp.zxxoo.work/huya/11352919
 海绵宝宝,http://159.75.85.63:35455/huya/11352919?cdn=hwcdn
 海绵宝宝,http://159.75.85.63:35455/huya/11352919?cdn=hscdn
