@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-14 18:24:40,http://60.223.224.176:8888/newlive/live/hls/2/live.m3u8?
+2026-01-15 06:21:57,http://60.223.224.176:8888/newlive/live/hls/2/live.m3u8?
 
 📺央视频道,#genre#
 CCTV-1,http://60.223.224.176:8888/newlive/live/hls/2/live.m3u8?
@@ -732,6 +732,7 @@ Viutv,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=8
 靖天资讯,http://vv.hotinosin.eu.org:10361/li-4gtv-4gtv065/index.m3u8?proxy=true
 靖天资讯,http://ali.hlspull.yximgs.com/live/77c86dfb58f1b8942a4a1eb8eb736f63.flv
 靖天资讯,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5055
+星卫娱乐,generationnexxxt.com:19806/e83cc99135884327a96306484b0b8685
 
 ☘️广西频道,#genre#
 梧州公共,http://yp.qqqtv.top/1/api.php?id=%E6%A2%A7%E5%B7%9E%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93&auth=666858
@@ -827,6 +828,7 @@ NewTV动作电影,http://123123.667789.cn:88/hls/164/index.m3u8
 靖天戏剧,http://vv.hotinosin.eu.org:10361/li-4gtv-4gtv058/index.m3u8?proxy=true
 靖天戏剧,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5097
 靖天戏剧,http://211.23.125.95:50007/4gtv-4gtv058/index.m3u8?proxy=true
+星卫娱乐,generationnexxxt.com:19806/e83cc99135884327a96306484b0b8685
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
 经典电影,http://113.57.20.158:9901/tsfile/live/1012_1.m3u8
 经典电影,http://115.48.61.209:9901/tsfile/live/1032_1.m3u8
@@ -857,6 +859,7 @@ NewTV动作电影,http://123123.667789.cn:88/hls/164/index.m3u8
 星空卫视,http://171.108.239.80:8181/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 星空卫视,http://171.108.239.99:8181/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 星空卫视,http://171.38.66.46:8181/tsfile/live/1004_1.m3u8
+私人影院,generationnexxxt.com:19806/3cfadd5e9af14d6db652b3c23acd7a7d
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 东森电影,http://iptv12k.com:35461/live/test167/12345/1254.m3u8
 东森电影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvmovie
@@ -868,6 +871,8 @@ NewTV动作电影,http://123123.667789.cn:88/hls/164/index.m3u8
 龙祥电影,http://171.108.239.79:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 龙祥电影,http://ali.hlspull.yximgs.com/live/9404f1818a354f572d4437a102e54c1d.flv
 龙祥电影,http://zb.hpc.tw/smtv.php?id=lungxiangtime_twn
+龙祥电影,generationnexxxt.com:19806/78502c9b515845a7baca6a3a6ea88b8a
+龙祥电影,135.148.104.228:19806/78502c9b515845a7baca6a3a6ea88b8a
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
 东森洋片,https://tv543.cc/Smart.php?id=ettvwestern
 东森洋片,http://orz.jkun.cf/smt.php?id=ettvwestern
