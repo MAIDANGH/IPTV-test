@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-20 06:21:23,http://60.223.224.176:8888/newlive/live/hls/2/live.m3u8?
+2026-01-20 18:27:45,http://60.223.224.176:8888/newlive/live/hls/2/live.m3u8?
 
 📺央视频道,#genre#
 CCTV-1,http://60.223.224.176:8888/newlive/live/hls/2/live.m3u8?
@@ -701,6 +701,7 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
 纬来育乐,http://185.106.96.201:28278/videolandyule/playlist.m3u8
 纬来育乐,http://185.106.96.201:5589/live.php?id=videolandmax&h=185.106.96.201&p=22364
 纬来育乐,http://23.128.116.71:5589/live.php?id=videolandmax&h=23.128.116.71&p=22364&token=1768700622.84d588a8dba485d8164551d1d8aee981e0bb90fe1e9e1e87903259a2de383869
+纬来育乐,http://43.251.226.89:8080/play/1261.m3u8
 J2,http://fm1077.serv00.net/Smart.php?id=j2_twn
 J2,http://iptv12k.com:35461/live/test167/12345/1006.m3u8
 Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
