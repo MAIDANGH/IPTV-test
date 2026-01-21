@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-21 06:22:44,http://60.223.224.176:8888/newlive/live/hls/2/live.m3u8?
+2026-01-21 18:28:06,http://60.223.224.176:8888/newlive/live/hls/2/live.m3u8?
 
 📺央视频道,#genre#
 CCTV-1,http://60.223.224.176:8888/newlive/live/hls/2/live.m3u8?
@@ -867,6 +867,7 @@ NewTV动作电影,http://123123.667789.cn:88/hls/164/index.m3u8
 星空卫视,http://171.108.239.99:8181/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 星空卫视,http://171.38.66.46:8181/tsfile/live/1004_1.m3u8
 私人影院,generationnexxxt.com:19806/3cfadd5e9af14d6db652b3c23acd7a7d
+私人影院,starvod.xyz:19806/74567d46c9a54cb8aab7bb35b7446cf2.ts
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 东森电影,http://iptv12k.com:35461/live/test167/12345/1254.m3u8
 东森电影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvmovie
