@@ -101,7 +101,7 @@ Category: 🎬电影频道, Name: NewTV惊悚悬疑, Total: 16, Valid: 12, Valid
 Category: 🎬电影频道, Name: NewTV动作电影, Total: 21, Valid: 10, Valid Percent: 47.62%, Whitelist: 0, IPv4: 11, IPv6: 10, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 🎬电影频道, Name: 黑莓电影, Total: 13, Valid: 13, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 13, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 🎬电影频道, Name: 纬来电影, Total: 77, Valid: 62, Valid Percent: 80.52%, Whitelist: 0, IPv4: 15, IPv6: 62, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 🎬电影频道, Name: 靖天映画, Total: 34, Valid: 8, Valid Percent: 23.53%, Whitelist: 0, IPv4: 27, IPv6: 7, Min Delay: 0.1 ms, Max Speed: 13.56 M/s, Avg Speed: 1.70 M/s, Max Resolution: 1920x1080
+Category: 🎬电影频道, Name: 靖天映画, Total: 35, Valid: 8, Valid Percent: 22.86%, Whitelist: 0, IPv4: 28, IPv6: 7, Min Delay: 0.1 ms, Max Speed: 13.56 M/s, Avg Speed: 1.70 M/s, Max Resolution: 1920x1080
 Category: 🎬电影频道, Name: 靖天戏剧, Total: 49, Valid: 25, Valid Percent: 51.02%, Whitelist: 0, IPv4: 25, IPv6: 24, Min Delay: 0.1 ms, Max Speed: 13.58 M/s, Avg Speed: 0.54 M/s, Max Resolution: 1920x1080
 Category: 🎬电影频道, Name: 星卫娱乐, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 🎬电影频道, Name: 经典电影, Total: 74, Valid: 22, Valid Percent: 29.73%, Whitelist: 0, IPv4: 53, IPv6: 21, Min Delay: 0.1 ms, Max Speed: 12.21 M/s, Avg Speed: 0.55 M/s, Max Resolution: 1920x1080
